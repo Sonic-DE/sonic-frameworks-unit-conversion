@@ -4,11 +4,11 @@ Sonic Frameworks Unit Conversion converts lengths, weights, temperatures, curren
 
 ## 6.31.0 (2026-10-20)
 
-- Behind the scenes: version number updated for this release.
+No SonicDE-specific changes in this release; it brings the package up to date with upstream.
 
 ## 6.30.0 (2026-09-12)
 
-- Behind the scenes: version number updated for this release.
+No SonicDE-specific changes in this release; it brings the package up to date with upstream.
 
 ## 6.29.0 (2026-08-07)
 
